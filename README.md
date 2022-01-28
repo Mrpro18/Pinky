@@ -21,13 +21,13 @@ Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it
 ----
 
   <p align="center">
-  <a href="https://github.com/afnanplk/pinkymwol ">
+  <a href="https://github.com/Mrpro18/pinkymwol ">
     <img src="https://img.shields.io/github/repo-size/afnanplk/lastpink?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
-<a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Mrpro18/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
+<a href="https://github.com/Mrpro18/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
+<a href="https://github.com/Mrpro18/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
+<a href="https://github.com/Mrpro18/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
